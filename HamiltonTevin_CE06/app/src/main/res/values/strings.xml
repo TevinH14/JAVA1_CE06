@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HamiltonTevin_CE06</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="split">:</string>
+    <string name="min">Minute(s)</string>
+    <string name="sec">Second(s)</string>
+    <string name="onPreExecute">onPreExecute</string>
+    <string name="timerStarted">Timer Started</string>
+    <string name="defultTime">00</string>
+    <string name="close">Close</string>
+    <string name="timerStopped">Timer Stopped</string>
+    <string name="noneValidTime">please enter valid time</string>
+    <string name="timeElapsed">Time Elapsed:\nMinutes(s)  %1$s  Seconds(s) %2$s.</string>
+</resources>
